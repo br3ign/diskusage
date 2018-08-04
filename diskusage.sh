@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Get disk usage
+# Get disk usage with df -h
 # Remove from output, and lines with Filesystem, tmpfs and cdrom using grep.
 # Any thing you like filtered out should be done with the grep function
 # awk to reorder the columns
